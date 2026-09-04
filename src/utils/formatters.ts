@@ -1,0 +1,1 @@
+export function formatDisplayName(name?: string) { return name?.trim() || 'Coachly user'; }

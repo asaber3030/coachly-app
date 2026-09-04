@@ -1,0 +1,1 @@
+export const i18n = { locale: 'en', fallbackLocale: 'en' } as const;

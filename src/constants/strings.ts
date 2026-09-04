@@ -1,0 +1,1 @@
+export const strings = { appName: 'Coachly' } as const;

@@ -1,0 +1,1 @@
+export const logger = { error: (...args: unknown[]) => console.error('[Coachly]', ...args), info: (...args: unknown[]) => console.info('[Coachly]', ...args) };

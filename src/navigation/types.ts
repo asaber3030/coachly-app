@@ -1,0 +1,1 @@
+export type RootRoute = '/(auth)/login' | '/(auth)/register' | '/(tabs)/home' | '/(tabs)/profile';

@@ -1,0 +1,1 @@
+export type HomeFeed = { message?: string; items?: Array<{ id: string; title: string }> };
